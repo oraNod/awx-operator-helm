@@ -1,4 +1,4 @@
-# Ansible project documentation
+# AWX Operator Helm Chart
 
 > A website built from this template is available on [ReadTheDocs](https://ansible.readthedocs.io/projects/ansible-project-template/en/latest/).
 
