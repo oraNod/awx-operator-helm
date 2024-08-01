@@ -1,0 +1,5 @@
+/site
+/venv
+/charts
+/bin
+/.cr-release-packages
